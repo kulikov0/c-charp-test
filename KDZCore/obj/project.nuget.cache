@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZTTjF+JkYjbuDbLPw0sumIZ0THtnluFrmurttCprfwzibqaNo7CqecY0s3RiEZMndnm2Zzr0lwwcgBWfM8ko+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saino\\source\\repos\\KDZ\\KDZCore\\KDZCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saino\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

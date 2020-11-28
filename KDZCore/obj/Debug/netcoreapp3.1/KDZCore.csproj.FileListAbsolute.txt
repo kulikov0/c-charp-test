@@ -1,0 +1,9 @@
+C:\Users\saino\source\repos\KDZ\KDZCore\obj\Debug\netcoreapp3.1\KDZCore.csprojAssemblyReference.cache
+C:\Users\saino\source\repos\KDZ\KDZCore\obj\Debug\netcoreapp3.1\KDZCore.AssemblyInfoInputs.cache
+C:\Users\saino\source\repos\KDZ\KDZCore\obj\Debug\netcoreapp3.1\KDZCore.AssemblyInfo.cs
+C:\Users\saino\source\repos\KDZ\KDZCore\bin\Debug\netcoreapp3.1\KDZCore.deps.json
+C:\Users\saino\source\repos\KDZ\KDZCore\bin\Debug\netcoreapp3.1\KDZCore.dll
+C:\Users\saino\source\repos\KDZ\KDZCore\bin\Debug\netcoreapp3.1\KDZCore.pdb
+C:\Users\saino\source\repos\KDZ\KDZCore\obj\Debug\netcoreapp3.1\KDZCore.csproj.CoreCompileInputs.cache
+C:\Users\saino\source\repos\KDZ\KDZCore\obj\Debug\netcoreapp3.1\KDZCore.dll
+C:\Users\saino\source\repos\KDZ\KDZCore\obj\Debug\netcoreapp3.1\KDZCore.pdb
